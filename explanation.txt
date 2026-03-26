@@ -1,0 +1,15 @@
+This Task Manager app uses four React components:
+
+1. App - Parent component that manages task state using useState 
+   and passes data to child components via props.
+2. TaskInput - Contains input field and add button, receives 
+   addTask function as prop from App.
+3. TaskList - Receives tasks array as prop and uses map() to 
+   render each task. Uses conditional rendering to show 
+   "No tasks available" when list is empty.
+4. TaskItem - Receives individual task data as prop and displays 
+   it with a checkbox and delete button.
+
+JSX concepts used: JSX expressions {}, JSX attributes (className, 
+onClick, onChange), conditional rendering (ternary operator), 
+and reusable components with props.

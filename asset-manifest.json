@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Assessment-5-Task-Manager/static/css/main.77198ff6.css",
+    "main.js": "/Assessment-5-Task-Manager/static/js/main.432bd13e.js",
+    "index.html": "/Assessment-5-Task-Manager/index.html",
+    "main.77198ff6.css.map": "/Assessment-5-Task-Manager/static/css/main.77198ff6.css.map",
+    "main.432bd13e.js.map": "/Assessment-5-Task-Manager/static/js/main.432bd13e.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.77198ff6.css",
+    "static/js/main.432bd13e.js"
+  ]
+}
